@@ -52,8 +52,8 @@ h6 {
 }
 
 a[href="Kimberly_Coy-resume.docx"] {
-  position: absolute;
-  top: 10px;
-  right: 10px;
   text-align: right;
+  position: absolute;
+  top: 20px;
+  right: 20px;
 }
