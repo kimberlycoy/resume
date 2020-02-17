@@ -1,0 +1,59 @@
+body {
+  padding: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #474747;
+}
+
+@media only screen and (max-width: 576px) {
+  body {
+    padding: 10px;
+  }
+}
+
+h1,
+h2,
+h4,
+h5 {
+  color: black;
+}
+
+h4,
+h5 {
+  color: black;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: normal;
+  font-size: 12px;
+}
+
+h2 {
+  padding-top: 2px;
+  margin-top: 36px;
+  border-top: 1px solid lightgray;
+}
+
+h3 {
+  color: #3f6caf;
+  margin-top: 24px;
+  margin-bottom: 0;
+}
+
+h3:first-of-type {
+  margin-top: 0;
+}
+
+h6 {
+  color: #6c5c5c;
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-weight: normal;
+  font-size: 12px;
+}
+
+a[href="Kimberly_Coy-resume.docx"] {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  text-align: right;
+}
